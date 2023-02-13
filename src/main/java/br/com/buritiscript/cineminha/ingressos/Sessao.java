@@ -1,6 +1,7 @@
 package br.com.buritiscript.cineminha.ingressos;
 
 import java.math.BigDecimal;
+import java.time.LocalTime;
 
 import jakarta.persistence.Entity;
 
