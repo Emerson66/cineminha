@@ -1,4 +1,4 @@
-package br.com.buritiscript.cineminha.ingressos;
+package br.com.buritiscript.cineminha.compras;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;
